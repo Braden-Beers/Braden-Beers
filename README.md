@@ -1,7 +1,7 @@
 # About me
 
 
-**Braden-Beers/Braden-Beers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Braden-Beers/Braden-Beers**
 
 Here are some ideas to get you started:
 
